@@ -7,6 +7,7 @@ training
 
 * [Ilya Sutskever's practical advices](http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html)
 * [Galaxy zoo solution](http://benanne.github.io/2014/04/05/galaxy-zoo.html)
+* [DL4J tricks](http://deeplearning4j.org/trainingtricks.html)
 * [Max-norm regularization](https://plus.google.com/+IanGoodfellow/posts/QUaCJfvDpni)
 * [ReLU initialization discussion](https://plus.google.com/+EricBattenberg/posts/f3tPKjo7LFa)
 * [Using momentum in Pylearn2](https://blog.safaribooksonline.com/2014/02/14/using-momentum-pylearn2/)
