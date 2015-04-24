@@ -10,6 +10,7 @@ training
 * [DL4J tricks](http://deeplearning4j.org/trainingtricks.html)
 * [Max-norm regularization](https://plus.google.com/+IanGoodfellow/posts/QUaCJfvDpni)
 * [ReLU initialization discussion](https://plus.google.com/+EricBattenberg/posts/f3tPKjo7LFa)
+* [RNN initialization](http://arxiv.org/abs/1504.00941)
 * [Using momentum in Pylearn2](https://blog.safaribooksonline.com/2014/02/14/using-momentum-pylearn2/)
 * [Practical recommendations for gradient-based training of deep architectures](http://arxiv.org/abs/1206.5533)
 * [Random Search for Hyper-Parameter Optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
