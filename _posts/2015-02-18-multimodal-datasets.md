@@ -31,6 +31,7 @@ This is a list of public datatasets containing multiple modalities.
 ## Audio+video+text
 
 * [IEMOCAP RELEASE](http://sail.usc.edu/iemocap/iemocap_release.htm)
+* [RECOLA database](http://diuf.unifr.ch/diva/recola/)
 
 ## Bigdata
 
