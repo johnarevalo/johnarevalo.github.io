@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+* John Arevalo, Fabio A González, Raúl Ramos-Pollán, Jose L. Oliveira
+and Miguel Angel Guevara Lopez. Representation learning for mammography
+mass lesion classification with convolutional neural networks.In 
+<span>*Computer methods and programs in biomedicine*</span>, 
+pages 248 - 257. Elsevier, 2016. [[pdf](https://www.researchgate.net/profile/John_Arevalo/publication/289585420_Representation_learning_for_mammography_mass_lesion_classification_with_convolutional_neural_networks/links/570ec9bc08aee328dd654afe.pdf)] [[code](https://github.com/johnarevalo/cnn-bcdr)]
+
 * John Arevalo, Angel Cruz-Roa, Viviana Arias, Eduardo Romero, and
 Fabio A. González. An unsupervised feature learning framework for basal
 cell carcinoma image analysis. In <span>*Artificial Intelligence in Medicine*
