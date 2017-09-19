@@ -17,6 +17,7 @@ This is a list of public datatasets containing multiple modalities.
 * [VisA: Dataset with Visual Attributes for Concepts](http://homepages.inf.ed.ac.uk/s1151656/resources.html)
 * [Attribute Discovery Dataset](http://tamaraberg.com/attributesDataset/index.html)
 * [Pascal + Flickr](http://nlp.cs.illinois.edu/HockenmaierGroup/data.html)
+* [Clickture dataset](https://www.microsoft.com/en-us/research/project/clickture/)
 
 
 ## Audio+text
